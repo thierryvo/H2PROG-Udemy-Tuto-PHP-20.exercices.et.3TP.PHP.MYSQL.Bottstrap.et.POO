@@ -1,0 +1,29 @@
+/*+++++++++ debut all page +++++++++*/
+.clickable{
+    cursor: pointer;
+}
+
+/* pour placer la class container juste: en-dessous du MENU NAVBAR */
+.margetop60 {
+    margin-top: 60px;
+}
+.margetop30 {
+    margin-top: 30px;
+}
+.margetop20 {
+    margin-top: 20px;
+}
+.margetop10 {
+    margin-top: 10px;
+}
+
+body {
+    background-color: rgb(240, 238, 238);
+    font-size: 16px;
+}
+h1{
+    font-size: 40px;
+    color: #2980b9;
+}
+
+/*+++++++++ fin all page +++++++++*/
